@@ -17,11 +17,11 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "ReCashify Admin",
-    template: "%s · ReCashify Admin",
+    default: "NoorMobiles Admin",
+    template: "%s · NoorMobiles Admin",
   },
   description:
-    "Admin panel for managing products, variants, orders, and users in ReCashify.",
+    "Admin panel for managing products, variants, orders, and users in NoorMobiles.",
 };
 
 export default function RootLayout({
